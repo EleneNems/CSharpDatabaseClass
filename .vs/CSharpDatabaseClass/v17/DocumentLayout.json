@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CSharpDatabaseClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10762870-F98C-4E9F-B1DA-0C2BBA7290A3}|Lecture_4\\Lecture_4.csproj|c:\\users\\user\\desktop\\csharpdatabaseclass\\lecture_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10762870-F98C-4E9F-B1DA-0C2BBA7290A3}|Lecture_4\\Lecture_4.csproj|solutionrelative:lecture_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10762870-F98C-4E9F-B1DA-0C2BBA7290A3}|Lecture_4\\Lecture_4.csproj|c:\\users\\user\\desktop\\csharpdatabaseclass\\lecture_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10762870-F98C-4E9F-B1DA-0C2BBA7290A3}|Lecture_4\\Lecture_4.csproj|solutionrelative:lecture_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSharpDatabaseClass\\Lecture_4\\Form1.cs",
+              "RelativeDocumentMoniker": "Lecture_4\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSharpDatabaseClass\\Lecture_4\\Form1.cs",
+              "RelativeToolTip": "Lecture_4\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwCwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:35:46.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSharpDatabaseClass\\Lecture_4\\Form1.cs",
+              "RelativeDocumentMoniker": "Lecture_4\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSharpDatabaseClass\\Lecture_4\\Form1.cs [Design]",
+              "RelativeToolTip": "Lecture_4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:35:44.823Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -13,7 +13,7 @@ namespace Lecture_4
 {
     public partial class Form1 : Form
     {
-        private string _connectionString = "Server=LAB321PC11\\SQLEXPRESS02;Database=OnlineBookStore;Trusted_Connection=True;";
+        private string _connectionString = "Server=DESKTOP-O4D8S12;Database=OnlineBookStore;Trusted_Connection=True;";
         private SqlConnection _con;
 
         public Form1()
@@ -25,7 +25,7 @@ namespace Lecture_4
         {
             using (_con = new SqlConnection(_connectionString))
             {
-                string query = "SELECT [CustomerID],[FirstName],[LastName],[DateOfBirth],[Phone] FROM [dbo].[Customers]";
+                string query = "SELECT [UserID],[Username],[Password],[Email],[FullName],[Role],[CreatedAt] FROM [dbo].[Users]";
                 using (SqlCommand cmd = new SqlCommand(query, _con))
                 {
                     await _con.OpenAsync();
@@ -33,7 +33,7 @@ namespace Lecture_4
                     {
                         while (await reader.ReadAsync())
                         {
-                            Console.WriteLine("{0}-{1}-{2}-{3}-{4}", reader.GetInt32(0), reader.GetString(1), reader.GetString(2), reader.GetDateTime(3), reader.GetInt32(4));
+                            Console.WriteLine("{0}-{1}-{2}-{3}-{4}-{5}-{6}", reader.GetInt32(0), reader.GetString(1), reader.GetString(2), reader.GetString(3), reader.GetString(4), reader.GetString(5), reader.GetDateTime(6));
                         }
                     }
                 }
@@ -42,47 +42,53 @@ namespace Lecture_4
 
         public async void CreateWithTransaction()
         {
-            string query = "INSERT INTO [dbo].[Customers]([FirstName],[LastName],[DateOfBirth],[Phone]) VALUES (@firstName, @lastName, @dateOfBirth, @phone)";
-            await _con.OpenAsync();
-            using (SqlTransaction transaction = _con.BeginTransaction())
+            using (_con = new SqlConnection(_connectionString)) 
             {
-                try
+                await _con.OpenAsync();
+
+                using (SqlTransaction transaction = _con.BeginTransaction())
                 {
-                    
-                    using(SqlCommand cmd = new SqlCommand(query, _con, transaction))
+                    try
                     {
-                        cmd.Parameters.AddWithValue("@firstName", "Sofi");
-                        cmd.Parameters.AddWithValue("@lastName", "Ujirauli");
-                        cmd.Parameters.AddWithValue("@dateOfBirth", "2000-01-01");
-                        cmd.Parameters.AddWithValue("@phone", "539201419");
-                        await cmd.ExecuteNonQueryAsync();
+                        string query = "INSERT INTO [dbo].[Users] ([Username],[Password],[Email],[FullName],[Role]) VALUES(@userName, @password, @email, @fullName, @role)";
+                        using (SqlCommand cmd = new SqlCommand(query, _con, transaction))
+                        {
+                            cmd.Parameters.AddWithValue("@userName", "username1");
+                            cmd.Parameters.AddWithValue("@password", "123456");
+                            cmd.Parameters.AddWithValue("@email", "username1@gmail.com");
+                            cmd.Parameters.AddWithValue("@fullName", "full name1");
+                            cmd.Parameters.AddWithValue("@role", "Admin");
+                            await cmd.ExecuteNonQueryAsync();
+                        }
+
+                        query = "INSERT INTO [dbo].[Users1] ([Username],[Password],[Email],[FullName],[Role]) VALUES(@userName, @password, @email, @fullName, @role)";
+                        using (SqlCommand cmd = new SqlCommand(query, _con, transaction))
+                        {
+                            cmd.Parameters.AddWithValue("@userName", "username1");
+                            cmd.Parameters.AddWithValue("@password", "123456");
+                            cmd.Parameters.AddWithValue("@email", "username1@gmail.com");
+                            cmd.Parameters.AddWithValue("@fullName", "full name1");
+                            cmd.Parameters.AddWithValue("@role", "Admin");
+                            await cmd.ExecuteNonQueryAsync();
+                        }
+
+                        transaction.Commit();
                     }
-                    query = "INSERT INTO [dbo].[Customers1]([FirstName],[LastName],[DateOfBirth],[Phone]) VALUES (@firstName, @lastName, @dateOfBirth, @phone)";
-                    using(SqlCommand cmd = new SqlCommand(@query, _con))
+                    catch (Exception ex)
                     {
-                        cmd.Parameters.AddWithValue("@firstName", "Sofi");
-                        cmd.Parameters.AddWithValue("@lastName", "Ujirauli");
-                        cmd.Parameters.AddWithValue("@dateOfBirth", "2000-01-01");
-                        cmd.Parameters.AddWithValue("@phone", "539201419");
-                        await cmd.ExecuteNonQueryAsync();
+                        Console.WriteLine(ex.Message);
+                        transaction.Rollback();
                     }
-                    transaction.Commit();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                    transaction.Rollback();
                 }
             }
-
         }
 
 
-        public async void Create()
+    public async void Create()
         {
             using (_con = new SqlConnection(_connectionString))
             {
-                string query = "INSERT INTO [dbo].[Customers]([FirstName],[LastName],[DateOfBirth],[Phone]) VALUES (@firstName, @lastName, @dateOfBirth, @phone)";
+                string query = "INSERT INTO [dbo].[Users] ([Username],[Password],[Email],[FullName],[Role]) VALUES(@userName, @password, @email, @fullName, @role)";
 
                 try
                 {
@@ -90,21 +96,23 @@ namespace Lecture_4
 
                     using (SqlCommand cmd = new SqlCommand(query, _con))
                     {
-                        cmd.Parameters.AddWithValue("@firstName", "Sofi");
-                        cmd.Parameters.AddWithValue("@lastName", "Ujirauli");
-                        cmd.Parameters.AddWithValue("@dateOfBirth", "2000-01-01");
-                        cmd.Parameters.AddWithValue("@phone", "539201419");
+                        cmd.Parameters.AddWithValue("@userName", "username1");
+                        cmd.Parameters.AddWithValue("@password", "123456");
+                        cmd.Parameters.AddWithValue("@email", "username1@gmail.com");
+                        cmd.Parameters.AddWithValue("@fullName", "full name1");
+                        cmd.Parameters.AddWithValue("@role", "Admin");
                         await cmd.ExecuteNonQueryAsync();
 
                     }
 
-                    query = "INSERT INTO [dbo].[Customers1]([FirstName],[LastName],[DateOfBirth],[Phone]) VALUES (@firstName, @lastName, @dateOfBirth, @phone)";
+                    query = "INSERT INTO [dbo].[Users1] ([Username],[Password],[Email],[FullName],[Role]) VALUES(@userName, @password, @email, @fullName, @role)";
                     using (SqlCommand cmd = new SqlCommand(query, _con))
                     {
-                        cmd.Parameters.AddWithValue("@firstName", "Sofi");
-                        cmd.Parameters.AddWithValue("@lastName", "Ujirauli");
-                        cmd.Parameters.AddWithValue("@dateOfBirth", "2000-01-01");
-                        cmd.Parameters.AddWithValue("@phone", "539201419");
+                        cmd.Parameters.AddWithValue("@userName", "username1");
+                        cmd.Parameters.AddWithValue("@password", "123456");
+                        cmd.Parameters.AddWithValue("@email", "username1@gmail.com");
+                        cmd.Parameters.AddWithValue("@fullName", "full name1");
+                        cmd.Parameters.AddWithValue("@role", "Admin");
                         await cmd.ExecuteNonQueryAsync();
 
                     }
