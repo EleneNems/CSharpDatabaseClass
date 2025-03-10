@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.createButton = new System.Windows.Forms.Button();
+            this.transactionButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -40,11 +42,33 @@
             this.dataGridView1.Size = new System.Drawing.Size(373, 263);
             this.dataGridView1.TabIndex = 1;
             // 
+            // createButton
+            // 
+            this.createButton.Location = new System.Drawing.Point(51, 365);
+            this.createButton.Name = "createButton";
+            this.createButton.Size = new System.Drawing.Size(75, 23);
+            this.createButton.TabIndex = 2;
+            this.createButton.Text = "create";
+            this.createButton.UseVisualStyleBackColor = true;
+            this.createButton.Click += new System.EventHandler(this.createButton_Click);
+            // 
+            // transactionButton
+            // 
+            this.transactionButton.Location = new System.Drawing.Point(236, 365);
+            this.transactionButton.Name = "transactionButton";
+            this.transactionButton.Size = new System.Drawing.Size(75, 23);
+            this.transactionButton.TabIndex = 3;
+            this.transactionButton.Text = "transaction";
+            this.transactionButton.UseVisualStyleBackColor = true;
+            this.transactionButton.Click += new System.EventHandler(this.transactionButton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(381, 450);
+            this.Controls.Add(this.transactionButton);
+            this.Controls.Add(this.createButton);
             this.Controls.Add(this.dataGridView1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -57,6 +81,8 @@
         #endregion
 
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Button createButton;
+        private System.Windows.Forms.Button transactionButton;
     }
 }
 

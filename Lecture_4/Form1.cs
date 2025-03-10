@@ -39,5 +39,92 @@ namespace Lecture_4
                 }
             }
         }
+
+        public async void CreateWithTransaction()
+        {
+            string query = "INSERT INTO [dbo].[Customers]([FirstName],[LastName],[DateOfBirth],[Phone]) VALUES (@firstName, @lastName, @dateOfBirth, @phone)";
+            await _con.OpenAsync();
+            using (SqlTransaction transaction = _con.BeginTransaction())
+            {
+                try
+                {
+                    
+                    using(SqlCommand cmd = new SqlCommand(query, _con, transaction))
+                    {
+                        cmd.Parameters.AddWithValue("@firstName", "Sofi");
+                        cmd.Parameters.AddWithValue("@lastName", "Ujirauli");
+                        cmd.Parameters.AddWithValue("@dateOfBirth", "2000-01-01");
+                        cmd.Parameters.AddWithValue("@phone", "539201419");
+                        await cmd.ExecuteNonQueryAsync();
+                    }
+                    query = "INSERT INTO [dbo].[Customers1]([FirstName],[LastName],[DateOfBirth],[Phone]) VALUES (@firstName, @lastName, @dateOfBirth, @phone)";
+                    using(SqlCommand cmd = new SqlCommand(@query, _con))
+                    {
+                        cmd.Parameters.AddWithValue("@firstName", "Sofi");
+                        cmd.Parameters.AddWithValue("@lastName", "Ujirauli");
+                        cmd.Parameters.AddWithValue("@dateOfBirth", "2000-01-01");
+                        cmd.Parameters.AddWithValue("@phone", "539201419");
+                        await cmd.ExecuteNonQueryAsync();
+                    }
+                    transaction.Commit();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                    transaction.Rollback();
+                }
+            }
+
+        }
+
+
+        public async void Create()
+        {
+            using (_con = new SqlConnection(_connectionString))
+            {
+                string query = "INSERT INTO [dbo].[Customers]([FirstName],[LastName],[DateOfBirth],[Phone]) VALUES (@firstName, @lastName, @dateOfBirth, @phone)";
+
+                try
+                {
+                    await _con.OpenAsync();
+
+                    using (SqlCommand cmd = new SqlCommand(query, _con))
+                    {
+                        cmd.Parameters.AddWithValue("@firstName", "Sofi");
+                        cmd.Parameters.AddWithValue("@lastName", "Ujirauli");
+                        cmd.Parameters.AddWithValue("@dateOfBirth", "2000-01-01");
+                        cmd.Parameters.AddWithValue("@phone", "539201419");
+                        await cmd.ExecuteNonQueryAsync();
+
+                    }
+
+                    query = "INSERT INTO [dbo].[Customers1]([FirstName],[LastName],[DateOfBirth],[Phone]) VALUES (@firstName, @lastName, @dateOfBirth, @phone)";
+                    using (SqlCommand cmd = new SqlCommand(query, _con))
+                    {
+                        cmd.Parameters.AddWithValue("@firstName", "Sofi");
+                        cmd.Parameters.AddWithValue("@lastName", "Ujirauli");
+                        cmd.Parameters.AddWithValue("@dateOfBirth", "2000-01-01");
+                        cmd.Parameters.AddWithValue("@phone", "539201419");
+                        await cmd.ExecuteNonQueryAsync();
+
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+
+            }
+        }
+
+        private void createButton_Click(object sender, EventArgs e)
+        {
+            Create();
+        }
+
+        private void transactionButton_Click(object sender, EventArgs e)
+        {
+            CreateWithTransaction();
+        }
     }
 }
