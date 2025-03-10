@@ -1,0 +1,8 @@
+C:\Users\LAB321student11\Desktop\CSharpDatabaseClass\Lecture_1\bin\Debug\Lecture_1.exe.config
+C:\Users\LAB321student11\Desktop\CSharpDatabaseClass\Lecture_1\bin\Debug\Lecture_1.exe
+C:\Users\LAB321student11\Desktop\CSharpDatabaseClass\Lecture_1\bin\Debug\Lecture_1.pdb
+C:\Users\LAB321student11\Desktop\CSharpDatabaseClass\Lecture_1\obj\Debug\Lecture_1.csproj.AssemblyReference.cache
+C:\Users\LAB321student11\Desktop\CSharpDatabaseClass\Lecture_1\obj\Debug\Lecture_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB321student11\Desktop\CSharpDatabaseClass\Lecture_1\obj\Debug\Lecture_1.csproj.CoreCompileInputs.cache
+C:\Users\LAB321student11\Desktop\CSharpDatabaseClass\Lecture_1\obj\Debug\Lecture_1.exe
+C:\Users\LAB321student11\Desktop\CSharpDatabaseClass\Lecture_1\obj\Debug\Lecture_1.pdb
