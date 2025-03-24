@@ -1,0 +1,11 @@
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\bin\Debug\Lecture_5.exe.config
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\bin\Debug\Lecture_5.exe
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\bin\Debug\Lecture_5.pdb
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\obj\Debug\Lecture_5.csproj.AssemblyReference.cache
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\obj\Debug\Lecture_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\obj\Debug\Lecture_5.Form1.resources
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\obj\Debug\Lecture_5.Properties.Resources.resources
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\obj\Debug\Lecture_5.csproj.GenerateResource.cache
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\obj\Debug\Lecture_5.csproj.CoreCompileInputs.cache
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\obj\Debug\Lecture_5.exe
+C:\Users\lab321student01\Desktop\New folder (4)\CSharpDatabaseClass\Lecture_5\obj\Debug\Lecture_5.pdb
