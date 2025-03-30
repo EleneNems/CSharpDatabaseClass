@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_3\bin\Debug\Lecture_3.exe.config
+C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_3\bin\Debug\Lecture_3.exe
+C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_3\bin\Debug\Lecture_3.pdb
+C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_3\obj\Debug\Lecture_3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_3\obj\Debug\Lecture_3.Form1.resources
+C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_3\obj\Debug\Lecture_3.Properties.Resources.resources
+C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_3\obj\Debug\Lecture_3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_3\obj\Debug\Lecture_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_3\obj\Debug\Lecture_3.exe
+C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_3\obj\Debug\Lecture_3.pdb

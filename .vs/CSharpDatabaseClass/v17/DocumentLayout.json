@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CSharpDatabaseClass\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10762870-F98C-4E9F-B1DA-0C2BBA7290A3}|Lecture_4\\Lecture_4.csproj|c:\\users\\user\\desktop\\csharpdatabaseclass\\lecture_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10762870-F98C-4E9F-B1DA-0C2BBA7290A3}|Lecture_4\\Lecture_4.csproj|solutionrelative:lecture_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BD79B93-12D6-4D70-8E44-2655EEBFAAD2}|MidtermProject\\MidtermProject.csproj|c:\\users\\user\\desktop\\year 2\\c#\\csharpdatabaseclass\\midtermproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD79B93-12D6-4D70-8E44-2655EEBFAAD2}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10762870-F98C-4E9F-B1DA-0C2BBA7290A3}|Lecture_4\\Lecture_4.csproj|c:\\users\\user\\desktop\\csharpdatabaseclass\\lecture_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10762870-F98C-4E9F-B1DA-0C2BBA7290A3}|Lecture_4\\Lecture_4.csproj|solutionrelative:lecture_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8BD79B93-12D6-4D70-8E44-2655EEBFAAD2}|MidtermProject\\MidtermProject.csproj|c:\\users\\user\\desktop\\year 2\\c#\\csharpdatabaseclass\\midtermproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BD79B93-12D6-4D70-8E44-2655EEBFAAD2}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015AC53C-60ED-411C-BC57-995D24E1C72B}|Lecture_6\\Lecture_6.csproj|c:\\users\\user\\desktop\\year 2\\c#\\csharpdatabaseclass\\lecture_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015AC53C-60ED-411C-BC57-995D24E1C72B}|Lecture_6\\Lecture_6.csproj|solutionrelative:lecture_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E137390-4CBA-47F2-9CD3-7D86475363E1}|Lecture_5\\Lecture_5.csproj|c:\\users\\user\\desktop\\year 2\\c#\\csharpdatabaseclass\\lecture_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E137390-4CBA-47F2-9CD3-7D86475363E1}|Lecture_5\\Lecture_5.csproj|solutionrelative:lecture_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\Lecture_5\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture_5\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\Lecture_5\\Program.cs",
+              "RelativeToolTip": "Lecture_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:48:20.815Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSharpDatabaseClass\\Lecture_4\\Form1.cs",
-              "RelativeDocumentMoniker": "Lecture_4\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CSharpDatabaseClass\\Lecture_4\\Form1.cs",
-              "RelativeToolTip": "Lecture_4\\Form1.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAArwCwAAABAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\MidtermProject\\Form1.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\MidtermProject\\Form1.cs",
+              "RelativeToolTip": "MidtermProject\\Form1.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowHIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T10:35:46.316Z",
+              "WhenOpened": "2025-03-30T13:00:07.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSharpDatabaseClass\\Lecture_4\\Form1.cs",
-              "RelativeDocumentMoniker": "Lecture_4\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CSharpDatabaseClass\\Lecture_4\\Form1.cs [Design]",
-              "RelativeToolTip": "Lecture_4\\Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\MidtermProject\\Form1.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\MidtermProject\\Form1.cs [Design]",
+              "RelativeToolTip": "MidtermProject\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T10:35:44.823Z",
+              "WhenOpened": "2025-03-30T12:32:23.469Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\Lecture_6\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture_6\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\Lecture_6\\Program.cs",
+              "RelativeToolTip": "Lecture_6\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:20:01.252Z",
+              "EditorCaption": ""
             }
           ]
         }
