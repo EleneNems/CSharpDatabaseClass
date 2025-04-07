@@ -23,3 +23,27 @@ C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\MidtermProject\obj\Debug\net
 C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.pdb
 C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.genruntimeconfig.cache
 C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\ref\MidtermProject.dll
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\MidtermProject.exe
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\MidtermProject.deps.json
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\MidtermProject.runtimeconfig.json
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\MidtermProject.dll
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\MidtermProject.pdb
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.csproj.AssemblyReference.cache
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.Form1.resources
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.csproj.GenerateResource.cache
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.AssemblyInfoInputs.cache
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.AssemblyInfo.cs
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.csproj.CoreCompileInputs.cache
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.csproj.CopyComplete
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.dll
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\refint\MidtermProject.dll
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.pdb
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\MidtermProject.genruntimeconfig.cache
+C:\Users\lab321student09\Desktop\New folder (2)\CSharpDatabaseClass\MidtermProject\obj\Debug\net6.0-windows\ref\MidtermProject.dll

@@ -172,19 +172,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\lab321student09\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\MidtermProject\\MidtermProject.csproj",
+      "projectUniqueName": "C:\\Users\\lab321student09\\Desktop\\New folder (2)\\CSharpDatabaseClass\\MidtermProject\\MidtermProject.csproj",
       "projectName": "MidtermProject",
-      "projectPath": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\MidtermProject\\MidtermProject.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Year 2\\C#\\CSharpDatabaseClass\\MidtermProject\\obj\\",
+      "projectPath": "C:\\Users\\lab321student09\\Desktop\\New folder (2)\\CSharpDatabaseClass\\MidtermProject\\MidtermProject.csproj",
+      "packagesPath": "C:\\Users\\lab321student09\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lab321student09\\Desktop\\New folder (2)\\CSharpDatabaseClass\\MidtermProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lab321student09\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -204,11 +204,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -239,7 +234,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
