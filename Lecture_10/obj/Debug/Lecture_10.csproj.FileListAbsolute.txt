@@ -1,0 +1,16 @@
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\bin\Debug\Lecture_10.exe.config
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\bin\Debug\Lecture_10.exe
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\bin\Debug\Lecture_10.pdb
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\bin\Debug\EntityFramework.dll
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\bin\Debug\EntityFramework.xml
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.csproj.AssemblyReference.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.addButton.resources
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.Properties.Resources.resources
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.csproj.GenerateResource.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.csproj.CoreCompileInputs.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.csproj.CopyComplete
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.exe
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.pdb

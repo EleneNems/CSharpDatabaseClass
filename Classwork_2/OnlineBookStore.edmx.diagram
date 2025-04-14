@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="81860056ae964e3182132389b052a721" Name="Diagram1">
+        <EntityTypeShape EntityType="OnlineBookStoreModel.Book" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnlineBookStoreModel.Genre" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnlineBookStoreModel.OrderDetail" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnlineBookStoreModel.Order" Width="1.5" PointX="0.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnlineBookStoreModel.Review" Width="1.5" PointX="3" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnlineBookStoreModel.User" Width="1.5" PointX="1.5" PointY="12" IsExpanded="true" />
+        <AssociationConnector Association="OnlineBookStoreModel.FK_OrderDetails_Books" ManuallyRouted="false" />
+        <AssociationConnector Association="OnlineBookStoreModel.FK_Reviews_Books" ManuallyRouted="false" />
+        <AssociationConnector Association="OnlineBookStoreModel.FK_OrderDetails_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="OnlineBookStoreModel.FK_Orders_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="OnlineBookStoreModel.FK_Reviews_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="OnlineBookStoreModel.BookGenres" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -172,19 +172,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lab321student09\\.nuget\\packages\\": {}
+    "C:\\Users\\lab321student08\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab321student09\\Desktop\\New folder (2)\\CSharpDatabaseClass\\MidtermProject\\MidtermProject.csproj",
+      "projectUniqueName": "C:\\Users\\lab321student08\\Desktop\\New folder\\CSharpDatabaseClass\\MidtermProject\\MidtermProject.csproj",
       "projectName": "MidtermProject",
-      "projectPath": "C:\\Users\\lab321student09\\Desktop\\New folder (2)\\CSharpDatabaseClass\\MidtermProject\\MidtermProject.csproj",
-      "packagesPath": "C:\\Users\\lab321student09\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab321student09\\Desktop\\New folder (2)\\CSharpDatabaseClass\\MidtermProject\\obj\\",
+      "projectPath": "C:\\Users\\lab321student08\\Desktop\\New folder\\CSharpDatabaseClass\\MidtermProject\\MidtermProject.csproj",
+      "packagesPath": "C:\\Users\\lab321student08\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lab321student08\\Desktop\\New folder\\CSharpDatabaseClass\\MidtermProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lab321student09\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lab321student08\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
