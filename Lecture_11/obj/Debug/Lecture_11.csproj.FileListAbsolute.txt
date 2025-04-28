@@ -1,0 +1,10 @@
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_11\bin\Debug\Lecture_11.exe.config
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_11\bin\Debug\Lecture_11.exe
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_11\bin\Debug\Lecture_11.pdb
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_11\obj\Debug\Lecture_11.csproj.AssemblyReference.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_11\obj\Debug\Lecture_11.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_11\obj\Debug\Lecture_11.Properties.Resources.resources
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_11\obj\Debug\Lecture_11.csproj.GenerateResource.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_11\obj\Debug\Lecture_11.csproj.CoreCompileInputs.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_11\obj\Debug\Lecture_11.exe
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_11\obj\Debug\Lecture_11.pdb

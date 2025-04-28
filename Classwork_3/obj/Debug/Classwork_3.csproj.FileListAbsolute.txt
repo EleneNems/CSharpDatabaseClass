@@ -1,0 +1,16 @@
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\bin\Debug\Classwork_3.exe.config
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\bin\Debug\Classwork_3.exe
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\bin\Debug\Classwork_3.pdb
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\bin\Debug\EntityFramework.dll
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\bin\Debug\EntityFramework.xml
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\obj\Debug\Classwork_3.csproj.AssemblyReference.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\obj\Debug\Classwork_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\obj\Debug\Classwork_3.Form1.resources
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\obj\Debug\Classwork_3.Properties.Resources.resources
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\obj\Debug\Classwork_3.csproj.GenerateResource.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\obj\Debug\Classwork_3.csproj.CoreCompileInputs.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\obj\Debug\Classwork_3.csproj.CopyComplete
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\obj\Debug\Classwork_3.exe
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_3\obj\Debug\Classwork_3.pdb

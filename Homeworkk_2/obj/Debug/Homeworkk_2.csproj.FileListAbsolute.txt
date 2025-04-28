@@ -15,3 +15,21 @@ C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homework.F31D9
 C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.exe
 C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.pdb
 C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.GameForm.resources
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\bin\Debug\Homeworkk_2.exe.config
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\bin\Debug\Homeworkk_2.exe
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\bin\Debug\Homeworkk_2.pdb
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\bin\Debug\EntityFramework.dll
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\bin\Debug\EntityFramework.xml
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.csproj.AssemblyReference.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.CreateAccount.resources
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.Form1.resources
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.GameForm.resources
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.Properties.Resources.resources
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.csproj.GenerateResource.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.csproj.CoreCompileInputs.cache
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.csproj.CopyComplete
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.exe
+C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.pdb
