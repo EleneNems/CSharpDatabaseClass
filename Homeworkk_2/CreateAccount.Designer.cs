@@ -32,7 +32,7 @@
             this.passwordTxt = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.insertButton = new System.Windows.Forms.Button();
-            this.usernameTxt = new System.Windows.Forms.TextBox();
+            this.emailTxt = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -60,9 +60,9 @@
             this.label2.Font = new System.Drawing.Font("Times New Roman", 10F);
             this.label2.Location = new System.Drawing.Point(225, 165);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 22);
+            this.label2.Size = new System.Drawing.Size(57, 22);
             this.label2.TabIndex = 9;
-            this.label2.Text = "Username";
+            this.label2.Text = "Email";
             // 
             // insertButton
             // 
@@ -79,13 +79,13 @@
             this.insertButton.UseVisualStyleBackColor = false;
             this.insertButton.Click += new System.EventHandler(this.insertButton_Click);
             // 
-            // usernameTxt
+            // emailTxt
             // 
-            this.usernameTxt.Location = new System.Drawing.Point(227, 190);
-            this.usernameTxt.Multiline = true;
-            this.usernameTxt.Name = "usernameTxt";
-            this.usernameTxt.Size = new System.Drawing.Size(325, 35);
-            this.usernameTxt.TabIndex = 7;
+            this.emailTxt.Location = new System.Drawing.Point(227, 190);
+            this.emailTxt.Multiline = true;
+            this.emailTxt.Name = "emailTxt";
+            this.emailTxt.Size = new System.Drawing.Size(325, 35);
+            this.emailTxt.TabIndex = 7;
             // 
             // label1
             // 
@@ -107,7 +107,7 @@
             this.Controls.Add(this.passwordTxt);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.insertButton);
-            this.Controls.Add(this.usernameTxt);
+            this.Controls.Add(this.emailTxt);
             this.Controls.Add(this.label1);
             this.Name = "CreateAccount";
             this.Text = "CreateAccount";
@@ -122,7 +122,7 @@
         private System.Windows.Forms.TextBox passwordTxt;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button insertButton;
-        private System.Windows.Forms.TextBox usernameTxt;
+        private System.Windows.Forms.TextBox emailTxt;
         private System.Windows.Forms.Label label1;
     }
 }

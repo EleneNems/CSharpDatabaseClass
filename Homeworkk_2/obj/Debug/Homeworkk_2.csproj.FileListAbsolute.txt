@@ -33,3 +33,4 @@ C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.csproj.CopyComplete
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.exe
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.InstructionForm.resources

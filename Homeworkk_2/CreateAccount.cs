@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -12,7 +13,7 @@ namespace Homeworkk_2
 {
     public partial class CreateAccount : Form
     {
-        WordleDBEntities db = new WordleDBEntities();
+        WordleDBEntities1 db = new WordleDBEntities1();
 
         public CreateAccount()
         {
@@ -21,30 +22,49 @@ namespace Homeworkk_2
 
         private void insertButton_Click(object sender, EventArgs e)
         {
-            string username = usernameTxt.Text;
+            string email = emailTxt.Text;
             string password = passwordTxt.Text;
 
-            
-            if (!string.IsNullOrEmpty(username) || !string.IsNullOrEmpty(password))
+
+            if (!string.IsNullOrEmpty(email) && !string.IsNullOrEmpty(password))
             {
-                User newUser = new User
+                try
                 {
-                    Username = username,
-                    Password = password
-                };
+                    var mail = new MailAddress(email);
 
-                db.Users.Add(newUser);
-                db.SaveChanges();
+                    if (password.Length < 8 || !password.Any(char.IsUpper))
+                    {
+                        MessageBox.Show("Password must be at least 8 characters long and contain at least one uppercase letter.", "Password Error");
+                        return;
+                    }
 
-                MessageBox.Show("You have successfully signed up!");
+                    User newUser = new User
+                    {
+                        Email = email,
+                        Password = password
+                    };
 
-                GameForm gameForm = new GameForm();
-                gameForm.Show();
-                this.Hide();
-            }
+                    db.Users.Add(newUser);
+                    db.SaveChanges();
+
+                    MessageBox.Show("You have successfully signed up!");
+
+                    GameForm gameForm = new GameForm();
+                    gameForm.Show();
+                    this.Hide();
+                }
+                catch (FormatException)
+                {
+                    MessageBox.Show("Invalid email format. Please enter a valid email address.", "Validation Error");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("An error occurred: " + ex.Message, "Error");
+                }
+
             else
-            {
-                MessageBox.Show("Please enter the username and the password", "Error");
+                {
+                MessageBox.Show("Please enter the email and the password", "Error");
             }
         }
     }

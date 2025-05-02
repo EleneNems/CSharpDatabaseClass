@@ -12,7 +12,7 @@ namespace Homeworkk_2
 {
     public partial class Form1 : Form
     {
-        private WordleDBEntities db = new WordleDBEntities();
+        private WordleDBEntities1 db = new WordleDBEntities1();
 
         public Form1()
         {
@@ -22,10 +22,10 @@ namespace Homeworkk_2
         private void enterButton_Click(object sender, EventArgs e)
         {
             
-            string username = usernameTxt.Text;
-            if (!string.IsNullOrEmpty(username))
+            string email = emailTxt.Text;
+            if (!string.IsNullOrEmpty(email))
             {
-                bool exists = db.Users.Any(x => x.Username == username);
+                bool exists = db.Users.Any(x => x.Email == email);
 
                 if (exists)
                 {
@@ -38,12 +38,12 @@ namespace Homeworkk_2
                 }
                 else
                 {
-                    MessageBox.Show("That username doesn't exist!", "Error");
+                    MessageBox.Show("That email doesn't exist!", "Error");
                 }
             }
             else
             {
-                MessageBox.Show("Please enter a username", "Error");
+                MessageBox.Show("Please enter an email", "Error");
             }
 
         }

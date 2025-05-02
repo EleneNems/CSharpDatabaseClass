@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="42495c1fdc93452996498a0bf4186545" Name="Diagram1">
+      <Diagram DiagramId="e4a1fcd7a3c6433ea362e8d8413714d8" Name="Diagram1">
         <EntityTypeShape EntityType="WordleDBModel.User" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="WordleDBModel.Word" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
       </Diagram>

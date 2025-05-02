@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,31 +39,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\Form1.cs",
-              "RelativeDocumentMoniker": "Homeworkk_2\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\Form1.cs",
-              "RelativeToolTip": "Homeworkk_2\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Title": "InstructionForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\InstructionForm.cs",
+              "RelativeDocumentMoniker": "Homeworkk_2\\InstructionForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\InstructionForm.cs*",
+              "RelativeToolTip": "Homeworkk_2\\InstructionForm.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T19:16:35.448Z",
+              "WhenOpened": "2025-05-02T16:19:20.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameForm.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\GameForm.cs",
               "RelativeDocumentMoniker": "Homeworkk_2\\GameForm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\GameForm.cs [Design]",
-              "RelativeToolTip": "Homeworkk_2\\GameForm.cs [Design]",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\GameForm.cs*",
+              "RelativeToolTip": "Homeworkk_2\\GameForm.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAkwF8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T17:37:37.833Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-02T16:11:52.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\GameForm.cs",
+              "RelativeDocumentMoniker": "Homeworkk_2\\GameForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\GameForm.cs [Design]*",
+              "RelativeToolTip": "Homeworkk_2\\GameForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:04:16.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\InstructionForm.cs",
+              "RelativeDocumentMoniker": "Homeworkk_2\\InstructionForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\InstructionForm.cs [Design]*",
+              "RelativeToolTip": "Homeworkk_2\\InstructionForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:04:16.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CreateAccount.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\CreateAccount.cs",
               "RelativeDocumentMoniker": "Homeworkk_2\\CreateAccount.cs",
@@ -67,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\Form1.cs",
               "RelativeDocumentMoniker": "Homeworkk_2\\Form1.cs",

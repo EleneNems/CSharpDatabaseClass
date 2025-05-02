@@ -13,7 +13,7 @@ namespace Homeworkk_2
     public partial class GameForm : Form
     {
         private int currentRow = 1;
-        WordleDBEntities db = new WordleDBEntities();
+        WordleDBEntities1 db = new WordleDBEntities1();
         string correctWord;
         public GameForm()
         {
@@ -55,15 +55,18 @@ namespace Homeworkk_2
                 {
                     if (guessedWord[col - 1] == correctWord[col - 1])
                     {
-                        currentBox.BackColor = Color.Green;
+                        currentBox.BackColor = Color.LightGreen;
+                        currentBox.ForeColor = Color.White;
                     }
                     else if (correctWord.Contains(guessedWord[col - 1]))
                     {
                         currentBox.BackColor = Color.Gold;
+                        currentBox.ForeColor = Color.White;
                     }
                     else
                     {
-                        currentBox.BackColor = Color.LightGray;
+                        currentBox.BackColor = Color.Gray;
+                        currentBox.ForeColor = Color.White;
                     }
                 }
             }
@@ -86,6 +89,13 @@ namespace Homeworkk_2
         private void clickButton_Click(object sender, EventArgs e)
         {
             MessageBox.Show(correctWord);
+        }
+
+        private void instructionBtn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            InstructionForm instructionForm = new InstructionForm();
+            instructionForm.ShowDialog();
         }
     }
 }

@@ -62,6 +62,7 @@
             this.Wordle = new System.Windows.Forms.Label();
             this.SubmitButton = new System.Windows.Forms.Button();
             this.clickButton = new System.Windows.Forms.Button();
+            this.instructionBtn = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -121,7 +122,7 @@
             // textBox65
             // 
             this.textBox65.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox65.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox65.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox65.Location = new System.Drawing.Point(335, 383);
             this.textBox65.MaxLength = 1;
             this.textBox65.Multiline = true;
@@ -133,7 +134,7 @@
             // textBox64
             // 
             this.textBox64.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox64.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox64.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox64.Location = new System.Drawing.Point(252, 383);
             this.textBox64.MaxLength = 1;
             this.textBox64.Multiline = true;
@@ -145,7 +146,7 @@
             // textBox63
             // 
             this.textBox63.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox63.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox63.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox63.Location = new System.Drawing.Point(169, 383);
             this.textBox63.MaxLength = 1;
             this.textBox63.Multiline = true;
@@ -157,7 +158,7 @@
             // textBox62
             // 
             this.textBox62.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox62.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox62.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox62.Location = new System.Drawing.Point(86, 383);
             this.textBox62.MaxLength = 1;
             this.textBox62.Multiline = true;
@@ -169,7 +170,7 @@
             // textBox61
             // 
             this.textBox61.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox61.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox61.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox61.Location = new System.Drawing.Point(3, 383);
             this.textBox61.MaxLength = 1;
             this.textBox61.Multiline = true;
@@ -181,7 +182,7 @@
             // textBox55
             // 
             this.textBox55.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox55.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox55.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox55.Location = new System.Drawing.Point(335, 307);
             this.textBox55.MaxLength = 1;
             this.textBox55.Multiline = true;
@@ -193,7 +194,7 @@
             // textBox54
             // 
             this.textBox54.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox54.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox54.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox54.Location = new System.Drawing.Point(252, 307);
             this.textBox54.MaxLength = 1;
             this.textBox54.Multiline = true;
@@ -205,7 +206,7 @@
             // textBox53
             // 
             this.textBox53.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox53.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox53.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox53.Location = new System.Drawing.Point(169, 307);
             this.textBox53.MaxLength = 1;
             this.textBox53.Multiline = true;
@@ -217,7 +218,7 @@
             // textBox52
             // 
             this.textBox52.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox52.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox52.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox52.Location = new System.Drawing.Point(86, 307);
             this.textBox52.MaxLength = 1;
             this.textBox52.Multiline = true;
@@ -229,7 +230,7 @@
             // textBox51
             // 
             this.textBox51.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox51.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox51.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox51.Location = new System.Drawing.Point(3, 307);
             this.textBox51.MaxLength = 1;
             this.textBox51.Multiline = true;
@@ -241,7 +242,7 @@
             // textBox45
             // 
             this.textBox45.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox45.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox45.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox45.Location = new System.Drawing.Point(335, 231);
             this.textBox45.MaxLength = 1;
             this.textBox45.Multiline = true;
@@ -253,7 +254,7 @@
             // textBox44
             // 
             this.textBox44.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox44.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox44.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox44.Location = new System.Drawing.Point(252, 231);
             this.textBox44.MaxLength = 1;
             this.textBox44.Multiline = true;
@@ -265,7 +266,7 @@
             // textBox43
             // 
             this.textBox43.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox43.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox43.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox43.Location = new System.Drawing.Point(169, 231);
             this.textBox43.MaxLength = 1;
             this.textBox43.Multiline = true;
@@ -277,7 +278,7 @@
             // textBox42
             // 
             this.textBox42.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox42.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox42.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox42.Location = new System.Drawing.Point(86, 231);
             this.textBox42.MaxLength = 1;
             this.textBox42.Multiline = true;
@@ -289,7 +290,7 @@
             // textBox41
             // 
             this.textBox41.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox41.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox41.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox41.Location = new System.Drawing.Point(3, 231);
             this.textBox41.MaxLength = 1;
             this.textBox41.Multiline = true;
@@ -301,7 +302,7 @@
             // textBox35
             // 
             this.textBox35.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox35.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox35.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox35.Location = new System.Drawing.Point(335, 155);
             this.textBox35.MaxLength = 1;
             this.textBox35.Multiline = true;
@@ -313,7 +314,7 @@
             // textBox34
             // 
             this.textBox34.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox34.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox34.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox34.Location = new System.Drawing.Point(252, 155);
             this.textBox34.MaxLength = 1;
             this.textBox34.Multiline = true;
@@ -325,7 +326,7 @@
             // textBox33
             // 
             this.textBox33.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox33.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox33.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox33.Location = new System.Drawing.Point(169, 155);
             this.textBox33.MaxLength = 1;
             this.textBox33.Multiline = true;
@@ -337,7 +338,7 @@
             // textBox32
             // 
             this.textBox32.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox32.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox32.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox32.Location = new System.Drawing.Point(86, 155);
             this.textBox32.MaxLength = 1;
             this.textBox32.Multiline = true;
@@ -349,7 +350,7 @@
             // textBox31
             // 
             this.textBox31.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox31.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox31.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox31.Location = new System.Drawing.Point(3, 155);
             this.textBox31.MaxLength = 1;
             this.textBox31.Multiline = true;
@@ -361,7 +362,7 @@
             // textBox25
             // 
             this.textBox25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox25.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox25.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox25.Location = new System.Drawing.Point(335, 79);
             this.textBox25.MaxLength = 1;
             this.textBox25.Multiline = true;
@@ -373,7 +374,7 @@
             // textBox24
             // 
             this.textBox24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox24.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox24.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox24.Location = new System.Drawing.Point(252, 79);
             this.textBox24.MaxLength = 1;
             this.textBox24.Multiline = true;
@@ -385,7 +386,7 @@
             // textBox23
             // 
             this.textBox23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox23.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox23.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox23.Location = new System.Drawing.Point(169, 79);
             this.textBox23.MaxLength = 1;
             this.textBox23.Multiline = true;
@@ -397,7 +398,7 @@
             // textBox22
             // 
             this.textBox22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox22.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox22.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox22.Location = new System.Drawing.Point(86, 79);
             this.textBox22.MaxLength = 1;
             this.textBox22.Multiline = true;
@@ -409,7 +410,7 @@
             // textBox21
             // 
             this.textBox21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox21.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox21.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox21.Location = new System.Drawing.Point(3, 79);
             this.textBox21.MaxLength = 1;
             this.textBox21.Multiline = true;
@@ -421,7 +422,7 @@
             // textBox15
             // 
             this.textBox15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox15.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox15.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox15.Location = new System.Drawing.Point(335, 3);
             this.textBox15.MaxLength = 1;
             this.textBox15.Multiline = true;
@@ -433,7 +434,7 @@
             // textBox14
             // 
             this.textBox14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox14.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox14.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox14.Location = new System.Drawing.Point(252, 3);
             this.textBox14.MaxLength = 1;
             this.textBox14.Multiline = true;
@@ -445,7 +446,7 @@
             // textBox13
             // 
             this.textBox13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox13.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox13.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox13.Location = new System.Drawing.Point(169, 3);
             this.textBox13.MaxLength = 1;
             this.textBox13.Multiline = true;
@@ -457,7 +458,7 @@
             // textBox12
             // 
             this.textBox12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox12.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox12.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox12.Location = new System.Drawing.Point(86, 3);
             this.textBox12.MaxLength = 1;
             this.textBox12.Multiline = true;
@@ -469,7 +470,7 @@
             // textBox11
             // 
             this.textBox11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox11.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox11.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox11.Location = new System.Drawing.Point(3, 3);
             this.textBox11.MaxLength = 1;
             this.textBox11.Multiline = true;
@@ -516,12 +517,27 @@
             this.clickButton.UseVisualStyleBackColor = false;
             this.clickButton.Click += new System.EventHandler(this.clickButton_Click);
             // 
+            // instructionBtn
+            // 
+            this.instructionBtn.BackColor = System.Drawing.Color.White;
+            this.instructionBtn.FlatAppearance.BorderSize = 0;
+            this.instructionBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.instructionBtn.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.instructionBtn.Location = new System.Drawing.Point(226, 773);
+            this.instructionBtn.Name = "instructionBtn";
+            this.instructionBtn.Size = new System.Drawing.Size(165, 46);
+            this.instructionBtn.TabIndex = 4;
+            this.instructionBtn.Text = "Instructions";
+            this.instructionBtn.UseVisualStyleBackColor = false;
+            this.instructionBtn.Click += new System.EventHandler(this.instructionBtn_Click);
+            // 
             // GameForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PaleTurquoise;
-            this.ClientSize = new System.Drawing.Size(612, 824);
+            this.ClientSize = new System.Drawing.Size(612, 850);
+            this.Controls.Add(this.instructionBtn);
             this.Controls.Add(this.clickButton);
             this.Controls.Add(this.SubmitButton);
             this.Controls.Add(this.Wordle);
@@ -571,5 +587,6 @@
         private System.Windows.Forms.Button SubmitButton;
         private System.Windows.Forms.Button clickButton;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
+        private System.Windows.Forms.Button instructionBtn;
     }
 }

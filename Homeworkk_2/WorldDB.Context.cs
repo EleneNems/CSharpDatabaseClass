@@ -13,10 +13,10 @@ namespace Homeworkk_2
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class WordleDBEntities : DbContext
+    public partial class WordleDBEntities1 : DbContext
     {
-        public WordleDBEntities()
-            : base("name=WordleDBEntities")
+        public WordleDBEntities1()
+            : base("name=WordleDBEntities1")
         {
         }
     
