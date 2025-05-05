@@ -11,19 +11,19 @@
       "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Homeworkk_2\\CreateAccount.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\CreateAccount.cs",
               "RelativeToolTip": "Homeworkk_2\\CreateAccount.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwCkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCQAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T16:28:23.38Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Homeworkk_2\\InstructionForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T16:19:20.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T16:19:20.266Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Homeworkk_2\\GameForm.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAkwF8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T16:11:52.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T16:11:52.865Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\GameForm.cs [Design]",
               "RelativeToolTip": "Homeworkk_2\\GameForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T16:04:16.948Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-02T16:04:16.948Z"
             },
             {
               "$type": "Document",
@@ -100,8 +97,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\InstructionForm.cs [Design]",
               "RelativeToolTip": "Homeworkk_2\\InstructionForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:04:16.683Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-02T15:04:16.683Z"
             },
             {
               "$type": "Document",
@@ -112,8 +108,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\CreateAccount.cs [Design]",
               "RelativeToolTip": "Homeworkk_2\\CreateAccount.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T17:23:37.025Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-26T17:23:37.025Z"
             },
             {
               "$type": "Document",
@@ -124,8 +119,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\Form1.cs [Design]",
               "RelativeToolTip": "Homeworkk_2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T16:19:41.986Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-26T16:19:41.986Z"
             }
           ]
         }

@@ -38,6 +38,13 @@ namespace Homeworkk_2
                         return;
                     }
 
+                    bool emailExists = db.Users.Any(u => u.Email == email);
+                    if (emailExists)
+                    {
+                        MessageBox.Show("An account with this email already exists.", "Email Exists");
+                        return;
+                    }
+
                     User newUser = new User
                     {
                         Email = email,
@@ -61,11 +68,13 @@ namespace Homeworkk_2
                 {
                     MessageBox.Show("An error occurred: " + ex.Message, "Error");
                 }
+            }
+
 
             else
-                {
+            {
                 MessageBox.Show("Please enter the email and the password", "Error");
-            }
+          }
         }
     }
 }
