@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ReadDB.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ReadDBStoreContainer">
+    <EntitySet Name="Books" EntityType="ReadDB.Store.Books" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Authors" EntityType="ReadDB.Store.Authors" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Readers" EntityType="ReadDB.Store.Readers" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="AuthorBook" Association="ReadDB.Store.AuthorBook">
+      <End Role="Author" EntitySet="Authors" />
+      <End Role="Book" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="ReaderBook" Association="ReadDB.Store.ReaderBook">
+      <End Role="Reader" EntitySet="Readers" />
+      <End Role="Book" EntitySet="Books" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Books">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PublishedYear" Type="int" Nullable="false" />
+    <Property Name="Title" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="AuthorId" Type="int" Nullable="false" />
+    <Property Name="ReaderId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Authors">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="lastname" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Readers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="lastname" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="AuthorBook">
+    <End Role="Author" Type="ReadDB.Store.Authors" Multiplicity="1" />
+    <End Role="Book" Type="ReadDB.Store.Books" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Author">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Book">
+        <PropertyRef Name="AuthorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ReaderBook">
+    <End Role="Reader" Type="ReadDB.Store.Readers" Multiplicity="1" />
+    <End Role="Book" Type="ReadDB.Store.Books" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reader">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Book">
+        <PropertyRef Name="ReaderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
