@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\homeworkk_2\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E4F746C-E31F-451B-9C66-E63864D2602B}|WordleGame\\WordleGame.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F746C-E31F-451B-9C66-E63864D2602B}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3E4F746C-E31F-451B-9C66-E63864D2602B}|WordleGame\\WordleGame.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E4F746C-E31F-451B-9C66-E63864D2602B}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3E4F746C-E31F-451B-9C66-E63864D2602B}|WordleGame\\WordleGame.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\wordlegame\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E4F746C-E31F-451B-9C66-E63864D2602B}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E4F746C-E31F-451B-9C66-E63864D2602B}|WordleGame\\WordleGame.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\wordlegame\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E4F746C-E31F-451B-9C66-E63864D2602B}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|C:\\Users\\User\\Documents\\CSharpDatabaseClass\\homeworkk_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F90D80A4-70F1-475E-A9B5-8EAEEA1B3853}|Homeworkk_2\\Homeworkk_2.csproj|solutionrelative:homeworkk_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3E4F746C-E31F-451B-9C66-E63864D2602B}|WordleGame\\WordleGame.csproj|c:\\users\\user\\documents\\csharpdatabaseclass\\wordlegame\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F746C-E31F-451B-9C66-E63864D2602B}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,88 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateAccount.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\CreateAccount.cs",
-              "RelativeDocumentMoniker": "Homeworkk_2\\CreateAccount.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\CreateAccount.cs*",
-              "RelativeToolTip": "Homeworkk_2\\CreateAccount.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCgAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\WordleGame\\GameForm.cs",
+              "RelativeDocumentMoniker": "WordleGame\\GameForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\WordleGame\\GameForm.cs [Design]",
+              "RelativeToolTip": "WordleGame\\GameForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T16:28:23.38Z",
+              "WhenOpened": "2025-05-19T08:16:28.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatisticsForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\WordleGame\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "WordleGame\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\WordleGame\\StatisticsForm.cs",
+              "RelativeToolTip": "WordleGame\\StatisticsForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:15:02.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InstructionForm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\InstructionForm.cs",
-              "RelativeDocumentMoniker": "Homeworkk_2\\InstructionForm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\InstructionForm.cs",
-              "RelativeToolTip": "Homeworkk_2\\InstructionForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "InstructionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\WordleGame\\InstructionForm.cs",
+              "RelativeDocumentMoniker": "WordleGame\\InstructionForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\WordleGame\\InstructionForm.cs [Design]",
+              "RelativeToolTip": "WordleGame\\InstructionForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T16:19:20.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameForm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\GameForm.cs",
-              "RelativeDocumentMoniker": "Homeworkk_2\\GameForm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\GameForm.cs",
-              "RelativeToolTip": "Homeworkk_2\\GameForm.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAkwF8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T16:11:52.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\GameForm.cs",
-              "RelativeDocumentMoniker": "Homeworkk_2\\GameForm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\GameForm.cs [Design]",
-              "RelativeToolTip": "Homeworkk_2\\GameForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T16:04:16.948Z"
+              "WhenOpened": "2025-05-19T08:05:37.975Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InstructionForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\InstructionForm.cs",
-              "RelativeDocumentMoniker": "Homeworkk_2\\InstructionForm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\InstructionForm.cs [Design]",
-              "RelativeToolTip": "Homeworkk_2\\InstructionForm.cs [Design]",
+              "Title": "StatisticsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\WordleGame\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "WordleGame\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\WordleGame\\StatisticsForm.cs [Design]",
+              "RelativeToolTip": "WordleGame\\StatisticsForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:04:16.683Z"
+              "WhenOpened": "2025-05-19T08:05:09.587Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateAccount.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\CreateAccount.cs",
-              "RelativeDocumentMoniker": "Homeworkk_2\\CreateAccount.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\CreateAccount.cs [Design]",
-              "RelativeToolTip": "Homeworkk_2\\CreateAccount.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\WordleGame\\GameForm.cs",
+              "RelativeDocumentMoniker": "WordleGame\\GameForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\WordleGame\\GameForm.cs",
+              "RelativeToolTip": "WordleGame\\GameForm.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T17:23:37.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\Form1.cs",
-              "RelativeDocumentMoniker": "Homeworkk_2\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSharpDatabaseClass\\Homeworkk_2\\Form1.cs [Design]",
-              "RelativeToolTip": "Homeworkk_2\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T16:19:41.986Z"
+              "WhenOpened": "2025-05-19T07:59:14.735Z",
+              "EditorCaption": ""
             }
           ]
         }

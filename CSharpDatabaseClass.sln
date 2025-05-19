@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork_4", "Classwork_4\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_12", "Lecture_12\Lecture_12.csproj", "{7FDE7916-5BA3-4342-9408-39141E56FE8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleGame", "WordleGame\WordleGame.csproj", "{3E4F746C-E31F-451B-9C66-E63864D2602B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{7FDE7916-5BA3-4342-9408-39141E56FE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FDE7916-5BA3-4342-9408-39141E56FE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FDE7916-5BA3-4342-9408-39141E56FE8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4F746C-E31F-451B-9C66-E63864D2602B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4F746C-E31F-451B-9C66-E63864D2602B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4F746C-E31F-451B-9C66-E63864D2602B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4F746C-E31F-451B-9C66-E63864D2602B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

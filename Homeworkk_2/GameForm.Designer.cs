@@ -1,4 +1,4 @@
-﻿namespace Homeworkk_2
+﻿namespace WordleGame
 {
     partial class GameForm
     {

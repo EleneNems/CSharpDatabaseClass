@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Homeworkk_2
+namespace WordleGame
 {
     public partial class GameForm : Form
     {

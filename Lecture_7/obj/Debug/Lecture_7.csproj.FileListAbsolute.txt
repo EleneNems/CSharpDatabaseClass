@@ -30,18 +30,3 @@ C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_7\obj\De
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.csproj.CopyComplete
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.exe
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.pdb
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\bin\Debug\Lecture_7.exe.config
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\bin\Debug\Lecture_7.exe
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\bin\Debug\Lecture_7.pdb
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\bin\Debug\EntityFramework.dll
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\bin\Debug\EntityFramework.xml
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.csproj.AssemblyReference.cache
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.Form1.resources
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.Properties.Resources.resources
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.csproj.GenerateResource.cache
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.csproj.Up2Date
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.exe
-C:\Users\User\Documents\CSharpDatabaseClass\Lecture_7\obj\Debug\Lecture_7.pdb
