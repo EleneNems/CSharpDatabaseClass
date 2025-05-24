@@ -5,3 +5,10 @@ C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_6\obj\Debug\Lecture_
 C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_6\obj\Debug\Lecture_6.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_6\obj\Debug\Lecture_6.exe
 C:\Users\User\Desktop\Year 2\C#\CSharpDatabaseClass\Lecture_6\obj\Debug\Lecture_6.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_6\bin\Debug\Lecture_6.exe.config
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_6\bin\Debug\Lecture_6.exe
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_6\bin\Debug\Lecture_6.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_6\obj\Debug\Lecture_6.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_6\obj\Debug\Lecture_6.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_6\obj\Debug\Lecture_6.exe
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_6\obj\Debug\Lecture_6.pdb

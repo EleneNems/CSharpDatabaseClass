@@ -13,3 +13,17 @@ C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_12\bin\D
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_12\obj\Debug\Lecture_12.csproj.CopyComplete
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_12\obj\Debug\Lecture_12.exe
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_12\obj\Debug\Lecture_12.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\bin\Debug\Lecture_12.exe.config
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\bin\Debug\Lecture_12.exe
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\bin\Debug\Lecture_12.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\obj\Debug\Lecture_12.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\obj\Debug\Lecture_12.Properties.Resources.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\obj\Debug\Lecture_12.csproj.GenerateResource.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\obj\Debug\Lecture_12.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\obj\Debug\Lecture_12.csproj.Up2Date
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\obj\Debug\Lecture_12.exe
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_12\obj\Debug\Lecture_12.pdb

@@ -14,3 +14,18 @@ C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\D
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.csproj.CopyComplete
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.exe
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\bin\Debug\Lecture_10.exe.config
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\bin\Debug\Lecture_10.exe
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\bin\Debug\Lecture_10.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.addButton.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.Properties.Resources.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.csproj.GenerateResource.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.csproj.Up2Date
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.exe
+C:\Users\User\Documents\CSharpDatabaseClass\Lecture_10\obj\Debug\Lecture_10.pdb

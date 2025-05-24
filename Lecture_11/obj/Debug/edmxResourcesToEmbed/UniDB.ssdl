@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UniDB.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="UniDBStoreContainer">
+    <EntitySet Name="Students" EntityType="UniDB.Store.Students" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Groups" EntityType="UniDB.Store.Groups" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="GroupStudent" Association="UniDB.Store.GroupStudent">
+      <End Role="Group" EntitySet="Groups" />
+      <End Role="Student" EntitySet="Students" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Firstname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Lastname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Age" Type="int" Nullable="false" />
+    <Property Name="GroupId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Groups">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="GroupStudent">
+    <End Role="Group" Type="UniDB.Store.Groups" Multiplicity="1" />
+    <End Role="Student" Type="UniDB.Store.Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Group">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="GroupId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

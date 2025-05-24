@@ -16,3 +16,11 @@ C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.csproj.CopyComplete
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.exe
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.CreateAccount.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.Form1.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\WordleGame.GameForm.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.InstructionForm.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.Properties.Resources.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.csproj.GenerateResource.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Homeworkk_2\obj\Debug\Homeworkk_2.csproj.CoreCompileInputs.cache

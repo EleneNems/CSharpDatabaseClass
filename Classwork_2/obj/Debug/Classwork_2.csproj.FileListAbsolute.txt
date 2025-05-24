@@ -14,3 +14,18 @@ C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_2\obj\
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwork_2.csproj.CopyComplete
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwork_2.exe
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwork_2.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\bin\Debug\Classwork_2.exe.config
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\bin\Debug\Classwork_2.exe
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\bin\Debug\Classwork_2.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwork_2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwork_2.Form1.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwork_2.Properties.Resources.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwork_2.csproj.GenerateResource.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwork_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwor.EBDC8D5F.Up2Date
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwork_2.exe
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork_2\obj\Debug\Classwork_2.pdb

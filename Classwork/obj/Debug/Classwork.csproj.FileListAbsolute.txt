@@ -14,3 +14,18 @@ C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork\obj\De
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.csproj.CopyComplete
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.exe
 C:\Users\lab321student08\Desktop\New folder\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\bin\Debug\Classwork.exe.config
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\bin\Debug\Classwork.exe
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\bin\Debug\Classwork.pdb
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.Form1.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.Properties.Resources.resources
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.csproj.GenerateResource.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.csproj.Up2Date
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.exe
+C:\Users\User\Documents\CSharpDatabaseClass\Classwork\obj\Debug\Classwork.pdb
